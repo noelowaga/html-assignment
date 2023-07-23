@@ -1,0 +1,26 @@
+body{
+    background-color: none;
+    background-repeat: none;
+    background-size: cover;
+}
+nav{
+    display: flex;
+    background-color:darkcyan;
+    justify-content: space-between;
+    height: 70px;
+}
+#first{
+   margin-left: 30%;
+}
+.footer{
+    background-color:darkcyan;
+    margin-top: 2cm;
+}
+#noel{
+    display: flex;
+    justify-content: space-around;
+    width: 650px;
+    padding:0.2cm;
+    align-content: center;
+  
+}

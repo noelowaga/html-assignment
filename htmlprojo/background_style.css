@@ -1,0 +1,21 @@
+body{
+    background-image: url("images/download.jpg");
+    background-repeat: none;
+    background-size: cover;
+}
+nav{
+    display: flex;
+    background-color: #fefefe;
+    justify-content: space-between;
+    height: 70px;
+}
+#first{
+    align-content: center;
+    padding-right: 0%;
+    padding-left: 30%;
+
+}
+.footer{
+    background-color: grey;
+    margin-top: 8cm;
+}
